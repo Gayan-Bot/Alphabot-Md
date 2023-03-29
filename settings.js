@@ -34,23 +34,23 @@ global.groupOnly = false //bot hanya bisa di gunakan dalam grup
 //language
 //Available in indonesia , english & spanyol 
 //You can request others language 
-global.language = indonesia //change indonesia to english if you don't understand the language used by the bot
+global.language = english //change indonesia to english if you don't understand the language used by the bot
 //global.language = english // use this for English language
 //global.language = spanyol // use this for Spanyol language
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
+global.botname = "Gayn-Bot-Md" //namabot kalian
+global.ownername = "Gayan" //nama kalian
 global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
+global.youtube = "https://github.com/Gayan-Md.com" //bebas asal jan hapus
 global.myweb2 = "https://s.id/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.email = "imalshanagayan02@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['62887435047326'] //premium user
-global.owner = ["62887435047326", "62821931157232"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "62887435047326" // nomor wa kalian
+global.premium = ['94762922776'] //premium user
+global.owner = ["94772821316", "94762922776"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "94772821316" // nomor wa kalian
 global.ownernomerr = "+"+ownernomer //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
